@@ -23,6 +23,22 @@ _Your study and submission work here..._
 
 ### 1.3.1
 
-**Question 1.1.1:*
-   Enumerate the values of the loop variable i takes as the while loop is executed.
+**Question 1.1.1:**
+
+   *Enumerate the values of the loop variable i takes as the while loop is executed.*
+   
+   The values of the loop variable are origonaly set to 0, because of the second to last line i=i+1 is used to count up from 1, 2, 3 ect
+    
+**Question 1.1.2:**    
+  
+  *What is the value of the loop variable after the termination of the loop? Hint: Skim the reference section on block-scoping of variables.*
+  
+  The final loop of the funtion for "i" is 10.
+  
+**Question 1.1.3:**
+
+  *Enumerate the different unsigned binary integers you can represent with 4 bits?*
+  
+  The unsigned binary integers can be written as numb
+  
   
