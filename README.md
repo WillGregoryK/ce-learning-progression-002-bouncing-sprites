@@ -17,3 +17,23 @@ Art acknowledgement: [taag](http://patorjk.com/software/taag/)
 ---
 
 _Your study and submission work here..._
+# Submission for Learning Progression 002
+
+## Step 1
+
+### 1.3.1
+  Question 1.1.1: Enumerate the values of the loop variable i takes as the while loop is executed.
+  
+  MAX_ITER=10 is the number counter, or the number of iterations. i repersents the constant in the while loop
+  
+  Question 1.1.2: What is the value of the loop variable after the termination of the loop? Hint: Skim the reference section on block-scoping of variables.
+  
+  The value should be 10 because i=i+1 repeats until it reaches the number of interations
+  
+  Question 1.1.3: Enumerate the different unsigned binary integers you can represent with 4 bits?
+  
+  
+  
+  
+  
+  
