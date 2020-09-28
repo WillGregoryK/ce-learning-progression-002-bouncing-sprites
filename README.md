@@ -17,3 +17,12 @@ Art acknowledgement: [taag](http://patorjk.com/software/taag/)
 ---
 
 _Your study and submission work here..._
+# Submission for Learning Progression 002
+
+## Step 1
+
+### 1.3.1
+
+**Question 1.1.1:*
+   Enumerate the values of the loop variable i takes as the while loop is executed.
+  
