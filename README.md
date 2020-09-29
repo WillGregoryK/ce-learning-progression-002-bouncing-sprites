@@ -39,6 +39,17 @@ _Your study and submission work here..._
 
   *Enumerate the different unsigned binary integers you can represent with 4 bits?*
   
-  The unsigned binary integers can be written as numb
+  integers can be written as numb
+  
+  [Program from 11.2.2] (Create microbit-program-1-2-1.js)
   
   
+  
+  [Program from 11.2.2] (Create microbit-program-1-2-2.js)
+  
+  
+  
+  [Program from 11.2.2] (Create microbit-program-1-2-3.js)
+  
+
+
