@@ -71,7 +71,24 @@ _Your study and submission work here..._
   
  ## Step 3
   
+  [Program from 3.2.1]
   
+  https://github.com/WillGregoryK/ce-learning-progression-002-bouncing-sprites/blob/master/programs/microbit-program-3-2-1.js
+  
+  https://msudenver.yuja.com/V/Video?v=1914852&node=7348663&a=1536230220&autoplay=1
+  
+  [Program from 3.2.2.1]
+  https://github.com/WillGregoryK/ce-learning-progression-002-bouncing-sprites/commit/446b5074f2e346fe11d96707b54872571f0c3623
     
-  
+  https://msudenver.yuja.com/V/Video?v=1915087&node=7350252&a=591140679&autoplay=1
+    
+  [Program from 3.2.2.2]
+  https://github.com/WillGregoryK/ce-learning-progression-002-bouncing-sprites/blob/master/programs/microbit-program-3-2-2-2.js
 
+  https://msudenver.yuja.com/V/Video?v=1915086&node=7350242&a=1969737540&autoplay=1
+
+  [Program from 2.2.3]
+  https://msudenver.yuja.com/V/Video?v=1915083&node=7350223&a=154879131&autoplay=1
+    
+  https://github.com/WillGregoryK/ce-learning-progression-002-bouncing-sprites/commit/260f0dc24bd8916da7d89f457fedd0af135a419c
+    
