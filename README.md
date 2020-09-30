@@ -41,16 +41,37 @@ _Your study and submission work here..._
   
   integers can be written as numb
   
-  [Program from 11.2.2] (Create microbit-program-1-2-1.js)
+  [Program from 2.2.1] (Create microbit-program-1-2-1.js)
   
   
-  
-  [Program from 11.2.2] (Create microbit-program-1-2-2.js)
-  
+  [Program from 2.2.2] (Create microbit-program-1-2-2.js)
   
   
-  [Program from 11.2.2] (Create microbit-program-1-2-3.js)
+  [Program from 1.2.3] (Create microbit-program-1-2-3.js)
   
+## Step 2
   
+  [Program from 2.2.1] 
+  
+  https://github.com/WillGregoryK/ce-learning-progression-002-bouncing-sprites/blob/master/programs/microbit-program-2-2-1.js
+ 
+  https://msudenver.yuja.com/V/Video?v=1914597&node=7347252&a=1806642218&autoplay=1
+  
+  [Program from 2.2.2]
 
+  https://github.com/WillGregoryK/ce-learning-progression-002-bouncing-sprites/blob/master/programs/microbit-program-2-2-2.js
+
+  https://msudenver.yuja.com/V/Video?v=1914647&node=7347534&a=2010912295&autoplay=1
+  
+  [Program from 2.2.3] 
+  
+  https://github.com/WillGregoryK/ce-learning-progression-002-bouncing-sprites/blob/master/programs/2-2-3
+  
+  https://msudenver.yuja.com/V/Video?v=1914756&node=7348163&a=929620501&autoplay=1
+  
+ ## Step 3
+  
+  
+    
+  
 
